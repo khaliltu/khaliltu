@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khaliltu
 - 👀 I’m interested in software ingineering and artificial intelligence
-- 🌱 I’m currently learning software ingineering and artificial intelligence in IIT Sfax, Tunisia
+- 🌱 I’m currently learning software engineering and artificial intelligence in IIT Sfax, Tunisia
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 khalilturki@iit.ens.tn
       khalilscow1@gmail.com
